@@ -1,7 +1,7 @@
-# Smart WasteSense Project
+# CleanTech Bin | Smart Dustbin
 
 ## Overview
-Smart WasteSense is an automated waste management system designed to optimize waste collection and enhance sanitary conditions. This system utilizes an LPC1768 microcontroller and an HC-SR04 ultrasonic sensor to detect waste levels and automate the waste collection process with a stepper motor.
+CleanTech Bin is an automated waste management system designed to optimize waste collection and enhance sanitary conditions. This system utilizes an LPC1768 microcontroller and an HC-SR04 ultrasonic sensor to detect waste levels and automate the waste collection process with a stepper motor.
 
 ## Features
 - **Ultrasonic Sensing**: Uses an HC-SR04 sensor to measure waste levels without physical contact, maintaining hygiene.
@@ -16,7 +16,7 @@ Smart WasteSense is an automated waste management system designed to optimize wa
 - Resistor (for LED current limiting)
 
 ## Circuit Diagram
-![Smart WasteSense Circuit Diagram](image2.png)
+![CleanTech Bin Circuit Diagram](image2.png)
 
 ## Hardware Setup
 The hardware setup includes the LPC1768 microcontroller connected to a stepper motor and an ultrasonic sensor. The stepper motor is used for lid control, while the ultrasonic sensor detects the waste level.
@@ -45,5 +45,7 @@ The repository includes the complete source code with comments explaining the fu
 3. Connect your LPC1768 microcontroller to your computer.
 4. Compile the code and upload it to the microcontroller using Flash Magic.
 
-## Contributions
-Contributions are welcome! If you have improvements or bug fixes, please fork the repository and submit a pull request.
+Feel free to reach out if you have any questions or suggestions!
+
+- **LinkedIn**: [linkedin.com/in/avij07](https://www.linkedin.com/in/avij07)
+- **Email**: avijaiswaljsr@outlook.com
